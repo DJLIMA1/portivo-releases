@@ -6,6 +6,13 @@
     <description>Atualizacoes do Portivo</description>
     <language>pt-BR</language>
     <item>
+      <title>Portivo 0.7.2</title>
+      <pubDate>Tue, 27 Oct 2026 17:27:42 +0000</pubDate>
+      <sparkle:version>0.7.2</sparkle:version>
+      <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
+      <enclosure url="https://github.com/DJLIMA1/portivo-releases/releases/download/v0.7.2/Portivo-0.7.2-windows-x64.msi" length="72014592" type="application/octet-stream" sparkle:edSignature="/jxErVx5RKAoOOqrv0gGaz2bNScyzaYdpuWuG1zvaWD15HhnjpAPAmFUbGoFy514qOUHmzm8L2uPgsNlbjBVDg==" sparkle:installerArguments="/passive PORTIVO_RELAUNCH=1" />
+    </item>
+    <item>
       <title>Portivo 0.7.1</title>
       <pubDate>Tue, 27 Oct 2026 17:20:05 +0000</pubDate>
       <sparkle:version>0.7.1</sparkle:version>
