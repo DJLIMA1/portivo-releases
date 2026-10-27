@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2">
+  <channel>
+    <title>Portivo (Windows)</title>
+    <link>https://github.com/DJLIMA1/portivo-releases</link>
+    <description>Atualizacoes do Portivo</description>
+    <language>pt-BR</language>
+    <item>
+      <title>Portivo 0.7.1</title>
+      <pubDate>Tue, 27 Oct 2026 17:20:05 +0000</pubDate>
+      <sparkle:version>0.7.1</sparkle:version>
+      <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+      <enclosure url="https://github.com/DJLIMA1/portivo-releases/releases/download/v0.7.1/Portivo-0.7.1-windows-x64.msi" length="71596693" type="application/octet-stream" sparkle:edSignature="UBJBEQ1uMPKlwLKOaMwI3o8gDHKSYSQ5W4ztSBX/M7Gk8OSDG4l5ppbB1nTWfU7r6Vg5JfeK0e+wa7jOEuVnBg==" sparkle:installerArguments="/passive" />
+    </item>
+  </channel>
+</rss>
